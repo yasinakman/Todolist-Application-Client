@@ -46,7 +46,7 @@ npm start
 ```
 
 ## Credits
-Design and programming by [Yasin Talha AKMAN](https://github.com/yasinakman).
+Developed by [Yasin Talha AKMAN](https://github.com/yasinakman).
 
 ## License
 This project is licensed under the GNU General Public License v3.0 (GPL 3.0) - see the [LICENSE](LICENSE) file for details
